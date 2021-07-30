@@ -9,7 +9,7 @@ This cheatsheet is built to provide the quick access to the Wireless Penetration
 
 1. [Wireless Penetration Testing: Fern](https://www.hackingarticles.in/wireless-penetration-testing-fern/)
 2. [Wireless Penetration Testing: Password Cracking](https://www.hackingarticles.in/wireless-penetration-testing-password-cracking/)
-3. [Wireless Penetration Testing: Detect Hidden SSID)](https://www.hackingarticles.in/wireless-penetration-testing-detect-hidden-ssid/)
+3. [Wireless Penetration Testing: Detect Hidden SSID](https://www.hackingarticles.in/wireless-penetration-testing-detect-hidden-ssid/)
 4. [Wireless Penetration Testing: PMKID Attack](https://www.hackingarticles.in/wireless-penetration-testing-pmkid-attack/)
 5. [Wireless Penetration Testing: Airgeddon](https://www.hackingarticles.in/wireless-penetration-testing-airgeddon/)
 6. [Wireless Penetration Testing: Aircrack-ng](https://www.hackingarticles.in/wireless-penetration-testing-aircrack-ng/)
