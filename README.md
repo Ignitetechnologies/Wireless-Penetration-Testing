@@ -1,6 +1,6 @@
 # Wireless Penetration Testing
 
-This cheatsheet is built to provide the quick access to the Wireless Penetration Testing Articles. When Performing Wireless Penetration Testing, this cheatsheet will help you by suggesting tools and various kinds of possible attacks. It can also be the quick refernce guide to brush up you knowledge on Wireless Penetartion Testing. Please share it with your connections and send your queries and feedbacks directly to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is built to provide quick access to the Wireless Penetration Testing articles. When performing wireless penetration testing, this cheatsheet will help you by suggesting tools and various kinds of possible attacks. It can also be a quick reference guide to brush up your knowledge on Wireless Penetartion Testing. Please share it with your connections and send your queries and feedback directly to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
